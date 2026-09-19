@@ -1,0 +1,16 @@
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\bin\Debug\net10.0\Biblioteca.exe
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\bin\Debug\net10.0\Biblioteca.deps.json
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\bin\Debug\net10.0\Biblioteca.runtimeconfig.json
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\bin\Debug\net10.0\Biblioteca.dll
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\bin\Debug\net10.0\Biblioteca.pdb
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.AssemblyInfo.cs
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.dll
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\refint\Biblioteca.dll
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.pdb
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.genruntimeconfig.cache
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\ref\Biblioteca.dll
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.sourcelink.json
+C:\Users\sofia\Downloads\Biblioteca-test-sof\Biblioteca-test-sof\Biblioteca\obj\Debug\net10.0\Biblioteca.csproj.Up2Date
